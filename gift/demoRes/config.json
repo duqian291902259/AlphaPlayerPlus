@@ -1,0 +1,10 @@
+{
+	"portrait": {
+		"path": "cc-ui-mask-video.mp4",
+		"align": 2
+	},
+	"landscape": {
+		"path": "vapx.mp4",
+		"align": 2
+	}
+}
